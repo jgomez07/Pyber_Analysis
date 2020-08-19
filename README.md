@@ -9,8 +9,7 @@ From the visual interpretation of the analysis, it can also be concluded that ur
 
 ## Summary
 From the average fare data per city, it is noted that urban cities have the lowest average fare but the highest number if rides compared to suburban and rural ares.
-This correlation might be due to competition, since there are more drivers in rural areas, they have decrease their fares in order to get more rides. This can also be confirmed by looking at the total driver data. Urban cities have close to 60,000 drivers whereas rural cities have only about 500. It is recommended that Pyber distribute drivers accordingly to meet demand and avoid riders taking alternative options such as taxis. [Total  Fare By City Type](
-  
+This correlation might be due to competition, since there are more drivers in rural areas, they have decrease their fares in order to get more rides. This can also be confirmed by looking at the total driver data. Urban cities have close to 60,000 drivers whereas rural cities have only about 500. It is recommended that Pyber distribute drivers accordingly to meet demand and avoid riders taking alternative options such as taxis. [Total  Fare By City Type](https://github.com/jgomez07/Pyber_Analysis/blob/master/Resources/PyBer_fare_summary.png)  
 Since passengers in rural areas are more likely to travel further distances, it can also be recommmended that Pyber increase the number of drivers in these areas to increase the   numbers of rides and thus profit.
 
 The same recommendation can also be suggested for suburban cities by looking at the total driver count, there is onlly about 8,500 drivers in this area with an average fare of $30.97. This is close to the highest average in rural cities so moving a portion of drivers to this area should also increase profitabilty. 
